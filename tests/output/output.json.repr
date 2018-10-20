@@ -1,0 +1,1595 @@
+{
+  tables: {
+    col: {
+      id: 1,
+      crt: 1440820800,
+      mod: 1493506900868,
+      scm: 1493506867472,
+      ver: 11,
+      dty: 0,
+      usn: 0,
+      ls: 0,
+      conf: See below,
+      models: See below,
+      decks: See below,
+      dconf: See below,
+      tags: See below
+    },
+    notes: {
+      id: 1461849983680,
+      guid: LoktVHV~;],
+      mid: 1358629116480,
+      mod: 1481117769,
+      usn: 3491,
+      tags:  CostanzoEndocrine EndocrinePhysiology ,
+      flds: Peptide and Protein Hormone Synthesis:   
+Translation of a **preprohormone ***begins* in the **{{c1::cytoplasm}} **with a **signal** **peptide** at the N terminusx1f![](paste-417251777839638.jpg),
+      sfld: Peptide and Protein Hormone Synthesis: Translation of a preprohormone begins in the {{c1::cytoplasm}} with a signal peptide at the N terminus,
+      csum: 1963658058,
+      flags: 0,
+      data: 
+    },
+    cards: {
+      id: 1461852688140,
+      nid: 1461849983680,
+      did: 1489013910229,
+      ord: 0,
+      mod: 1493495355,
+      usn: -1,
+      type: 0,
+      queue: 0,
+      due: 1440285903,
+      ivl: 0,
+      factor: 2500,
+      reps: 0,
+      lapses: 0,
+      left: 1001,
+      odue: 0,
+      odid: 0,
+      flags: 0,
+      data: 
+    }
+  },
+  col: {
+    conf: {
+      nextPos: 1,
+      estTimes: true,
+      activeDecks: [
+        1
+      ],
+      sortType: noteFld,
+      timeLim: 0,
+      sortBackwards: false,
+      addToCur: true,
+      curDeck: 1,
+      newBury: true,
+      newSpread: 0,
+      dueCounts: true,
+      curModel: 1493506867474,
+      collapseTime: 1200
+    },
+    tags: {},
+    models: {
+      1358629116480: {
+        vers: [],
+        name: Cloze-88141,
+        tags: [
+          PathomaRespiratory,
+          RespiratoryPathology,
+          cancer,
+          lung\_cancer
+        ],
+        did: 1478521906656,
+        usn: 3615,
+        sortf: 0,
+        latexPre: \documentclass[12pt]{article} \special{papersize=3in,5in} \usepackage{amssymb,amsmath} \pagestyle{empty} \setlength{\parindent}{0in} \begin{document} ,
+        latexPost: \end{document},
+        type: 1,
+        id: 1358629116480,
+        css: .card { font-family: Times New Roman; font-size: 18px; text-align: center; color: black; background-color: lavender; } .cloze { font-weight: bold; color: blue; },
+        mod: 1493070827,
+        flds: [
+          {
+            name: Text,
+            rtl: false,
+            sticky: false,
+            media: [],
+            ord: 0,
+            font: Helvetica,
+            size: 20
+          },
+          {
+            name: Extra,
+            rtl: false,
+            sticky: false,
+            media: [],
+            ord: 1,
+            font: Helvetica,
+            size: 20
+          }
+        ],
+        tmpls: [
+          {
+            name: Cloze,
+            qfmt: {{cloze:Text}},
+            bsize: 12,
+            bafmt: ,
+            afmt: {{cloze:Text}}  
+ {{Extra}},
+            bfont: Arial,
+            ord: 0,
+            bqfmt: 
+          }
+        ]
+      },
+      1395802358422: {
+        vers: [],
+        name: Cloze-6f9d4,
+        tags: [
+          endocrine,
+          BrosNotZachs,
+          marked,
+          pharmacology
+        ],
+        did: 1461849995412,
+        usn: 3498,
+        sortf: 0,
+        latexPre: \documentclass[12pt]{article} \special{papersize=3in,5in} \usepackage[utf8]{inputenc} \usepackage{amssymb,amsmath} \pagestyle{empty} \setlength{\parindent}{0in} \begin{document} ,
+        latexPost: \end{document},
+        type: 1,
+        id: 1395802358422,
+        css: .card { font-family: times new roman; font-size: 18px; text-align: center; color: black; background-color: lavender ; } .cloze { font-weight: bold; color: blue; },
+        mod: 1489014226,
+        flds: [
+          {
+            name: Text,
+            rtl: false,
+            sticky: false,
+            media: [],
+            ord: 0,
+            font: Adobe Caslon Pro,
+            size: 20
+          },
+          {
+            name: Extra,
+            rtl: false,
+            sticky: false,
+            media: [],
+            ord: 1,
+            font: Adobe Caslon Pro,
+            size: 20
+          }
+        ],
+        tmpls: [
+          {
+            name: Cloze,
+            qfmt: {{cloze:Text}},
+            bafmt: ,
+            afmt: {{cloze:Text}}  
+ {{Extra}},
+            ord: 0,
+            bqfmt: 
+          }
+        ]
+      }
+    },
+    decks: {
+      1489013910229: {
+        name: Zanki Step Decks::Zanki Endocrine::Endocrine Physiology,
+        extendRev: 50,
+        usn: 3611,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        id: 1489013910229,
+        mod: 1492616968,
+        desc: 
+      },
+      1466004196462: {
+        name: Zanki Step Decks::Zanki Biochemistry,
+        extendRev: 50,
+        usn: 3530,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1466004196462,
+        mod: 1489292185,
+        desc: 
+      },
+      1484611032393: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Psychiatry / Psychology,
+        extendRev: 50,
+        usn: 3528,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1484611032393,
+        mod: 1489269958
+      },
+      1478815405032: {
+        name: Zanki Step Decks::Zanki Hematology & Oncology ::Pathoma RBC ,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1478815405032,
+        mod: 1493069579,
+        desc: 
+      },
+      1488069216965: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Musculoskeletal::Musculoskeletal Pathology ,
+        extendRev: 50,
+        usn: 3530,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1488069216965,
+        mod: 1489292718
+      },
+      1481244912055: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Neurology ::Ophthalmology,
+        extendRev: 50,
+        usn: 3528,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1481244912055,
+        mod: 1489273824
+      },
+      1474735209636: {
+        name: Zanki Step Decks::Zanki Renal ,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1474735209636,
+        mod: 1493069577,
+        desc: 
+      },
+      1481164021592: {
+        name: Zanki Step Decks::Zanki Neurology ::Neuroanatomy (Basic),
+        extendRev: 50,
+        usn: 3528,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1481164021592,
+        mod: 1489273729,
+        desc: 
+      },
+      1489890742260: {
+        name: Zanki Step Decks::Zanki Public Health Sciences::The Well Patient,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        id: 1489890742260,
+        mod: 1493069965,
+        desc: 
+      },
+      1476669534840: {
+        desc: ,
+        name: Zanki Step Decks::Zanki GI ,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1476669534840,
+        mod: 1493069865
+      },
+      1486859014897: {
+        name: Zanki Step Decks::Zanki Immunology + General Pathology ::Immunology,
+        extendRev: 50,
+        usn: 3532,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1486859014897,
+        mod: 1489294302,
+        desc: 
+      },
+      1476328631998: {
+        name: Zanki Step Decks::Zanki Biochemistry::Metabolism,
+        extendRev: 50,
+        usn: 3530,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1476328631998,
+        mod: 1489292179,
+        desc: 
+      },
+      1489107254168: {
+        name: Zanki Step Decks::Zanki Reproductive::The Embryology That Shouldn't Exist,
+        extendRev: 50,
+        usn: 3600,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1489107254168,
+        mod: 1490213364,
+        desc: 
+      },
+      1482116185189: {
+        desc: ,
+        name: Zanki Step Decks::Zanki GI ::GI Physiology + Embryo, Anatomy,
+        extendRev: 50,
+        usn: 3528,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1482116185189,
+        mod: 1489270313
+      },
+      1487981695873: {
+        browserCollapsed: true,
+        extendRev: 50,
+        collapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1487981695873,
+        mod: 1493070224,
+        name: Zanki Step Decks::Zanki Immunology + General Pathology ,
+        usn: 3615,
+        activeTags: [
+          HLA
+        ],
+        inactiveTags: [],
+        desc: 
+      },
+      1483828384937: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Neurology ::Neuro Misc,
+        extendRev: 50,
+        usn: 3530,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1483828384937,
+        mod: 1489292221
+      },
+      1: {
+        desc: ,
+        name: Default,
+        extendRev: 50,
+        usn: 0,
+        collapsed: false,
+        newToday: [
+          0,
+          0
+        ],
+        timeToday: [
+          0,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          0,
+          0
+        ],
+        lrnToday: [
+          0,
+          0
+        ],
+        id: 1,
+        mod: 1493506861
+      },
+      1480553379822: {
+        name: Zanki Step Decks::Zanki Hematology & Oncology ::Pathoma WBC,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1480553379822,
+        mod: 1493069579,
+        desc: 
+      },
+      1478521467303: {
+        name: Zanki Step Decks::Zanki Cardiovascular::Cardio Pathology,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1478521467303,
+        mod: 1493069583,
+        desc: 
+      },
+      1488643473578: {
+        desc: ,
+        name: Zanki Step Decks,
+        extendRev: 50,
+        usn: -1,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1488643473578,
+        mod: 1493506523
+      },
+      1489014319147: {
+        name: Zanki Step Decks::Zanki Reproductive::Reproductive Physiology + Anatomy/Embryo,
+        extendRev: 50,
+        usn: 3600,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        id: 1489014319147,
+        mod: 1490213906,
+        desc: 
+      },
+      1476328623412: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Biochemistry::Molecular, Cellular, Genetics,
+        extendRev: 50,
+        usn: 3530,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1476328623412,
+        mod: 1489292185
+      },
+      1488934378869: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Endocrine,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        id: 1488934378869,
+        mod: 1493069864
+      },
+      1487290453679: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Immunology + General Pathology ::Pathoma Chapter 1 (Cell Injury, Death),
+        extendRev: 50,
+        usn: 3532,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1487290453679,
+        mod: 1489294318
+      },
+      1476805852220: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Biochemistry::Vitamins,
+        extendRev: 50,
+        usn: 3528,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1476805852220,
+        mod: 1489269711
+      },
+      1479335821065: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Neurology ::Kaplan Neuroscience,
+        extendRev: 50,
+        usn: 3528,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1479335821065,
+        mod: 1489273709
+      },
+      1478521906656: {
+        name: Zanki Step Decks::Zanki Respiratory ::Respiratory Pathology,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1478521906656,
+        mod: 1493069575,
+        desc: 
+      },
+      1488493090315: {
+        name: Zanki Step Decks::Zanki Dermatology,
+        extendRev: 50,
+        usn: 3607,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1488493090315,
+        mod: 1490284641,
+        desc: 
+      },
+      1478815446851: {
+        name: Zanki Step Decks::Zanki Hematology & Oncology ::RBC Misc.,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1478815446851,
+        mod: 1493070047,
+        desc: 
+      },
+      1482116199167: {
+        name: Zanki Step Decks::Zanki GI ::GI Pathology,
+        extendRev: 50,
+        usn: 3528,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1482116199167,
+        mod: 1489271465,
+        desc: 
+      },
+      1473967188351: {
+        name: Zanki Step Decks::Zanki Hematology & Oncology ::Pathoma Hematology,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1473967188351,
+        mod: 1493069579,
+        desc: 
+      },
+      1470836352694: {
+        browserCollapsed: true,
+        extendRev: 50,
+        collapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        id: 1470836352694,
+        mod: 1493072430,
+        name: Zanki Step Decks::Zanki Cardiovascular,
+        usn: 3616,
+        activeTags: [],
+        inactiveTags: [
+          cell\_death
+        ],
+        desc: 
+      },
+      1478521780234: {
+        name: Zanki Step Decks::Zanki Renal ::Renal Physiology + Embryo, Anatomy,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1478521780234,
+        mod: 1493069577,
+        desc: 
+      },
+      1478815292423: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Hematology & Oncology ,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1478815292423,
+        mod: 1493070225
+      },
+      1485733495897: {
+        name: Zanki Step Decks::Zanki Public Health Sciences,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1485733495897,
+        mod: 1493069965,
+        desc: 
+      },
+      1485733519330: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Public Health Sciences::Epidemiology & Biostats,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1485733519330,
+        mod: 1493069965
+      },
+      1481749593034: {
+        name: Zanki Step Decks::Zanki Neurology ::Neuro Pathology,
+        extendRev: 50,
+        usn: 3528,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1481749593034,
+        mod: 1489274183,
+        desc: 
+      },
+      1473283617066: {
+        name: Zanki Step Decks::Zanki Respiratory ,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1473283617066,
+        mod: 1493070842,
+        desc: 
+      },
+      1479335793408: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Neurology ,
+        extendRev: 50,
+        usn: 3530,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1479335793408,
+        mod: 1489292221
+      },
+      1485965974741: {
+        name: Zanki Step Decks::Zanki Musculoskeletal,
+        extendRev: 50,
+        usn: 3605,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1485965974741,
+        mod: 1490236723,
+        desc: 
+      },
+      1489274875986: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Reproductive::Reproductive Pathology,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        id: 1489274875986,
+        mod: 1493070164
+      },
+      1489014232696: {
+        name: Zanki Step Decks::Zanki Reproductive,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: true,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1489014232696,
+        mod: 1493070223,
+        desc: 
+      },
+      1478521456637: {
+        name: Zanki Step Decks::Zanki Cardiovascular::Cardio Physiology + Embryo, Anatomy ,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1478521456637,
+        mod: 1493069583,
+        desc: 
+      },
+      1478521774574: {
+        desc: ,
+        name: Zanki Step Decks::Zanki Renal ::Renal Pathology,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1478521774574,
+        mod: 1493069577
+      },
+      1489013928060: {
+        name: Zanki Step Decks::Zanki Endocrine::Endocrine Pathology,
+        extendRev: 50,
+        usn: 3517,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        id: 1489013928060,
+        mod: 1489100212,
+        desc: 
+      },
+      1478521910615: {
+        name: Zanki Step Decks::Zanki Respiratory ::Respiratory Physiology,
+        extendRev: 50,
+        usn: 3615,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1478521910615,
+        mod: 1493069575,
+        desc: 
+      },
+      1487981731799: {
+        name: Zanki Step Decks::Zanki Immunology + General Pathology ::Pathoma Chapter 2 (Inflammation),
+        extendRev: 50,
+        usn: 3532,
+        collapsed: false,
+        browserCollapsed: true,
+        newToday: [
+          609,
+          0
+        ],
+        lrnToday: [
+          609,
+          0
+        ],
+        dyn: 0,
+        extendNew: 10,
+        conf: 1,
+        revToday: [
+          609,
+          0
+        ],
+        timeToday: [
+          609,
+          0
+        ],
+        id: 1487981731799,
+        mod: 1489294932,
+        desc: 
+      }
+    },
+    dconf: {
+      1: {
+        name: Default,
+        replayq: true,
+        timer: 0,
+        maxTaken: 60,
+        usn: 0,
+        mod: 0,
+        id: 1,
+        autoplay: true,
+        lapse: {
+          leechFails: 8,
+          minInt: 1,
+          delays: [
+            10
+          ],
+          leechAction: 0,
+          mult: 0
+        },
+        rev: {
+          perDay: 100,
+          fuzz: 0.05,
+          ivlFct: 1,
+          maxIvl: 36500,
+          ease4: 1.3,
+          bury: true,
+          minSpace: 1
+        },
+        new: {
+          perDay: 20,
+          delays: [
+            1,
+            10
+          ],
+          separate: true,
+          ints: [
+            1,
+            4,
+            7
+          ],
+          initialFactor: 2500,
+          bury: true,
+          order: 1
+        }
+      }
+    }
+  }
+}

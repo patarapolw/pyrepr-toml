@@ -1,0 +1,50 @@
+[[package]]
+category = "main"
+description = "Screen-scraping library"
+name = "beautifulsoup4"
+optional = false
+platform = "*"
+python-versions = "*"
+version = "4.6.3"
+
+[[package]]
+category = "main"
+description = "Convert HTML to markdown."
+name = "markdownify"
+optional = false
+platform = "*"
+python-versions = "*"
+version = "0.4.1"
+
+[package.dependencies]
+beautifulsoup4 = "*"
+six = "*"
+
+[[package]]
+category = "main"
+description = "Python 2 and 3 compatibility utilities"
+name = "six"
+optional = false
+platform = "*"
+python-versions = "*"
+version = "1.11.0"
+
+[[package]]
+category = "main"
+description = "Python Library for Tom's Obvious, Minimal Language"
+name = "toml"
+optional = false
+platform = "*"
+python-versions = "*"
+version = "0.10.0"
+
+[metadata]
+content-hash = "cc62b0b134da697f03fdb43f93527931724c3c71934f65735c75fd3a08eb92b9"
+platform = "*"
+python-versions = "*"
+
+[metadata.hashes]
+beautifulsoup4 = ["194ec62a25438adcb3fdb06378b26559eda1ea8a747367d34c33cef9c7f48d57", "90f8e61121d6ae58362ce3bed8cd997efb00c914eae0ff3d363c32f9a9822d10", "f0abd31228055d698bb392a826528ea08ebb9959e6bea17c606fd9c9009db938"]
+markdownify = ["28ce67d1888e4908faaab7b04d2193cda70ea4f902f156a21d0aaea55e63e0a1"]
+six = ["70e8a77beed4562e7f14fe23a786b54f6296e34344c23bc42f07b15018ff98e9", "832dc0e10feb1aa2c68dcc57dbb658f1c7e65b9b61af69048abc87a2db00a0eb"]
+toml = ["229f81c57791a41d65e399fc06bf0848bab550a9dfd5ed66df18ce5f05e73d5c", "235682dd292d5899d361a811df37e04a8828a5b1da3115886b73cf81ebc9100e", "f1db651f9657708513243e61e6cc67d101a39bad662eaa9b5546f789338e07a3"]
